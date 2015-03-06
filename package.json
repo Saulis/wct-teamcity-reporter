@@ -1,0 +1,10 @@
+{
+  "name": "wct-teamcity",
+  "version": "1.0.0",
+  "description": "WCT plugin to enable test reporting in TeamCity.",
+  "main": "lib/plugin.js",
+  "wct-plugin": {
+  },
+  "author": "Sauli Tähkäpää",
+  "license": "MIT"
+}
