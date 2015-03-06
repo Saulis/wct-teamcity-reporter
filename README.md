@@ -2,7 +2,7 @@
 
 ###WCT plugin to enable test reporting in TeamCity.
 
-Uses TeamCity Service messages described [here](https://confluence.jetbrains.com/display/TCD8/Build+Script+Interaction+with+TeamCity#BuildScriptInteractionwithTeamCity-ReportingTests)
+Uses TeamCity Service messages described in [TeamCity Documentation](https://confluence.jetbrains.com/display/TCD8/Build+Script+Interaction+with+TeamCity#BuildScriptInteractionwithTeamCity-ReportingTests)
 
 The plugin produces messages for __testStarted, testFinished, testFailed and testIgnored__ events.
 
