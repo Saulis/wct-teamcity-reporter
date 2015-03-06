@@ -6,7 +6,8 @@
   "wct-plugin": {
   },
   "author": "Sauli Tähkäpää",
-  "license": "MIT",
+  "repository": "https://github.com/Saulis/wct-teamcity-reporter/",
+  "license": "Apache 2.0",
   "devDependencies": {
     "web-component-tester": "latest"
   }
